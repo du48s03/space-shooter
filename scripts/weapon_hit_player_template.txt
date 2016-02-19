@@ -1,0 +1,6 @@
+///Hit a player
+//show_message("other = "+string(other));
+if(other.id != owner){
+    other.hp-=damage;
+    instance_destroy();//TODO: replace with a missile_destroy routine
+}

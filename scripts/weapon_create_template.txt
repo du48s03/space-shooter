@@ -1,0 +1,7 @@
+///Initialization
+//direc;
+//onwer;
+damage = 100;
+default_spd = 2.25;
+has_mass = true;
+

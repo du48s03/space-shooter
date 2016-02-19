@@ -1,0 +1,6 @@
+var dx = other.x - x;
+var dy = other.y - y;
+var angle = arctan2(dy,dx);
+
+other.hspeed = 3*cos(angle);
+other.vspeed = 3*sin(angle);

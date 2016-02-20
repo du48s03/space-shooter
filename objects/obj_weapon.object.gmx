@@ -26,6 +26,7 @@
           <argument>
             <kind>1</kind>
             <string>///Initializing
+event_inherited();
 snd = noone;
 owner = noone;
 owner_id = -1;
